@@ -58,7 +58,7 @@ public class AdActivity extends Activity {
     }
 
 
-    
+
 
     private AdActivityImplementation implementation;
 
