@@ -57,6 +57,9 @@ public class AdActivity extends Activity {
         WebView getWebView();
     }
 
+
+    
+
     private AdActivityImplementation implementation;
 
     //Intent Keys
