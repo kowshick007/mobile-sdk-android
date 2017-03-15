@@ -120,6 +120,9 @@ class AdFetcher {
                 // if auto refresh has already started
                 // prevent loading again if start() gets called twice in a row
                 break;
+
+
+
         }
     }
 
