@@ -34,6 +34,10 @@ import java.util.concurrent.TimeUnit;
 class AdFetcher {
     private ScheduledExecutorService tasker;
     private int period = -1;
+
+
+
+
     private final RequestHandler handler;
     private long lastFetchTime = -1;
     private long timePausedAt = -1;
