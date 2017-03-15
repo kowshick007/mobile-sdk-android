@@ -38,6 +38,10 @@ class AdFetcher {
     private long lastFetchTime = -1;
     private long timePausedAt = -1;
     private final Ad owner;
+
+
+
+
     private RequestManager requestManager;
     private STATE state = STATE.STOPPED;
 
