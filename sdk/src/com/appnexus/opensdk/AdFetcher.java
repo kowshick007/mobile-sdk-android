@@ -47,6 +47,8 @@ class AdFetcher {
         AUTO_REFRESH // Auto refresh mode
     }
 
+
+
     // Fires requests whenever it receives a message
     public AdFetcher(Ad owner) {
         this.owner = owner;
